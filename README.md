@@ -1,4 +1,4 @@
-# JsTechs
+# JsTech
 JavaScript course materials for "JavaScript technologies" (course id: IKP-9234)
 
 ### Introduction
