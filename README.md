@@ -1,5 +1,5 @@
 # JsTechs
-JavaScript course materials for "JavaScript technologies" course (course id: IKP-9234)
+JavaScript course materials for "JavaScript technologies" (course id: IKP-9234)
 
 ### Introduction
 Take a tour through the world of modern JavaScript-based web programming technologies. In the semester we check out the JavaScript language components, client side framworks and we will look at the possibilities of a JavaScript-based database server.
